@@ -12,6 +12,7 @@ Plone 6 (pip) with built-in support for:
 * Graylog
 * Sentry
 
+TEST
 This image is generic, thus you can obviously re-use it within your own projects.
 
 See [5.x](https://github.com/eea/plone-backend/tree/5.x) branch for Plone 5.
